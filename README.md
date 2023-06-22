@@ -12,6 +12,7 @@ Build html and css code
 Run the server to get the output
 ## Code:
 ```
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
